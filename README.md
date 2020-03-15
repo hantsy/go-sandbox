@@ -10,7 +10,7 @@ Personal  playground  for practicing Go programming language.
 
 
 
-## Reference 
+## References 
 
 * [Go by example](https://gobyexample.com)
 * [A Tour of  Go](https://tour.golang.org)
