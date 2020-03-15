@@ -17,5 +17,6 @@
     },
     "peacock.color": "#5dc9e2",
     "go.autocompleteUnimportedPackages": true,
-    "go.docsTool": "gogetdoc"
+    "go.docsTool": "gogetdoc",
+    "go.useLanguageServer": true
 }
