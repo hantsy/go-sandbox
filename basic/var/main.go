@@ -15,14 +15,13 @@ func main() {
 	fmt.Println(i, j, c, python, java)
 
 	var m int
-	//nside a function, the := short assignment statement can be used in place of a var declaration with implicit type. 
-	n:= 10
+	//nside a function, the := short assignment statement can be used in place of a var declaration with implicit type.
+	n := 10
 	fmt.Println(m, n)
 
-	
-    // 0 for numeric types,
-    // false for the boolean type, and
-    // "" (the empty string) for strings.
+	// 0 for numeric types,
+	// false for the boolean type, and
+	// "" (the empty string) for strings.
 
 	var j int
 	var f float32
@@ -31,7 +30,7 @@ func main() {
 	var s string
 	fmt.Println(j, f, d, b, s)
 
-	const Truth= true
+	const Truth = true
 
 	fmt.Println(Pi, Truth)
 

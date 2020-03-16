@@ -41,7 +41,6 @@ func needFloat(x float64) float64 {
 	return x * 0.1
 }
 
-
 func main() {
 	fmt.Printf("Type: %T Value: %v\n", ToBe, ToBe)
 	fmt.Printf("Type: %T Value: %v\n", MaxInt, MaxInt)
@@ -52,11 +51,10 @@ func main() {
 	u := uint(f)
 	fmt.Println(i, f, u)
 
-
-	k := 42            // int
-	j := k             // j is an int
-	pi := 3.142        // float64
-	g := 0.867 + 0.5i  // complex128
+	k := 42           // int
+	j := k            // j is an int
+	pi := 3.142       // float64
+	g := 0.867 + 0.5i // complex128
 	fmt.Printf("type of k is: %T \n", k)
 	fmt.Printf("type of j is: %T \n", j)
 	fmt.Printf("type of pi is: %T \n", pi)

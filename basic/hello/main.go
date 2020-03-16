@@ -5,7 +5,7 @@ import (
 	//"math"
 )
 
-func main(){
+func main() {
 	//fmt.Printf("math PI:%f\n" , math.Pi)
 	fmt.Println("你好，世界！")
 }
