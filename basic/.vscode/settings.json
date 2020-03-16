@@ -1,6 +1,6 @@
 {
-    "go.autocompleteUnimportedPackages": true,
-    "go.docsTool": "gogetdoc",
-    "go.useLanguageServer": true,
-    "go.formatTool": "goimports"
+  "go.autocompleteUnimportedPackages": true,
+  "go.docsTool": "gogetdoc",
+  "go.useLanguageServer": true,
+  "go.formatTool": "goimports"
 }
