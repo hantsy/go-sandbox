@@ -22,6 +22,7 @@ Personal  playground  for practicing Go programming language.
 * [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
 * [The Go programming language中文版](https://github.com/gopl-zh/gopl-zh.github.com)
 * [Go / Golang Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U&list=RDCMUC29ju8bIPH5as8OGnQzwJyA&index=1)
+* [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 * Three parts of video courses:
    * [Go University 101 - Learn Golang ](https://www.youtube.com/playlist?list=PLEcwzBXTPUE9V1o8mZdC9tNnRZaTgI-1P)
    * [Go University 201 - Intermediate  Golang ](https://www.youtube.com/playlist?list=PLEcwzBXTPUE9V1o8mZdC9tNnRZaTgI-1P)
