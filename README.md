@@ -17,6 +17,7 @@ Personal  playground  for practicing Go programming language.
 * [Go in Visual Studio Code](https://code.visualstudio.com/docs/languages/go)
 * [Go by example](https://gobyexample.com)
 * [Learn X in Y minutes(Where X=GO)](https://learnxinyminutes.com/docs/go/)
+* [如何写出优雅的 Go 语言代码](https://draveness.me/golang-101/)
 * [写给新手的 Go 开发指南](https://liujiacai.net/blog/2019/07/17/hello-golang/)
 * [Go 笔记](https://github.com/overnote/over-golang/)
 * [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
