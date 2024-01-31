@@ -1,0 +1,60 @@
+repo_name: hantsy/go-sandbox
+report_id: 50011909b06c9843a50b5fdc76eca573
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T08:15:39+00:00'
+requested_by: hantsy
+provider: github
+branch: master
+detected_tools_count: 4
+tools:
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/hantsy/go-sandbox
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hantsy/go-sandbox
+  detection_source: Repo Metadata
+- name: errcheck
+  description: Errcheck checks that you checked errors
+  package_url: https://pkg.go.dev/github.com/kisielk/errcheck
+  version: 1.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/hantsy/go-sandbox/blob/master/gotest/go.sum
+  detection_source: gotest/go.mod
+  last_updated_by: Hantsy Bai
+  last_updated_on: 2021-01-04 11:48:39.000000000 Z
+- name: tools
+  description: Go Tools
+  package_url: https://pkg.go.dev/golang.org/x/tools
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/hantsy/go-sandbox/blob/master/basic/go.sum
+  detection_source: gotest/go.mod
+  last_updated_by: Hantsy Bai
+  last_updated_on: 2021-01-04 11:48:39.000000000 Z
